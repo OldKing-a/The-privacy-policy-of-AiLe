@@ -1,14 +1,13 @@
-# The-privacy-policy-of-AiLe
 This App knows the importance of personal information to you, and will do its best to protect your personal information safely and reliably. We are committed to maintaining your trust in us and protecting your personal information by abiding by the following principles: principle of consistent power and responsibility, principle of clear purpose, principle of choice consent, principle of least sufficient use, principle of ensuring safety, principle of subject participation, principle of openness and transparency, etc. At the same time, we promise that we will take appropriate security measures to protect your personal information in accordance with the industry's mature security standards. Please read and understand this privacy policy carefully before using our products (or services).
 How do we collect and use your personal information
 Personal information refers to all kinds of information recorded electronically or by other means that can identify the identity of a particular natural person or reflect the activities of a particular natural person independently or in combination with other information. We will only collect and use your personal information for the purposes set forth in this policy:
-(a) to provide you with the purchase of living furniture services
+(a) to provide you with tea and tea set purchase services
 1. Business function 1: register as a user
 To complete the account creation, you need to provide the following information: mobile phone number, created account and password.
 The above information provided by you will continue to be used by us during your use of the service. When you log out, we will stop using and delete the above information.
 The above information will be stored in the territory of the People's Republic of China. If cross-border transmission is required, we will obtain your authorization separately.
-We show you all kinds of living furniture we sell
-We show all kinds of living furniture
+We show you all kinds of teas and tea sets we sell
+We show all kinds of tea and tea sets
 (ii) carry out internal data analysis and research, third-party SDK statistical services, and improve our products or services
 We collect data based on your interactions with us and the choices you make, including your privacy Settings and the products and functions you use. We collect data may include the SDK/API/JS code version, browser, Internet service providers (isps), IP address, platform, timestamp, identifier, version of the application, the application distribution channels, independent device identifier, iOS advertising identifier (IDFA), android advertisers identifier, nic (MAC) address, international mobile equipment identification number (IMEI), equipment type, terminal manufacturers, terminal equipment operating system version, session start/stop time, local language, time zone and network status (WiFi, etc.), hard disk, CPU, and battery usage, etc.
 We will seek your prior consent to use the information for other purposes not specified in this policy.
@@ -44,6 +43,6 @@ Account information -- if you wish to access or edit the personal information an
 5. How to update this privacy policy
 We may adjust or change this privacy policy in due course. Any update of this privacy policy will be posted on our website with the date of update. Unless otherwise mandatory by laws, regulations or regulatory regulations, the adjusted or changed content will take effect 7 days after notice or publication. If you continue to use any of our services or visit our relevant websites after the privacy policy is adjusted or changed, we believe that you have fully read, understood and accepted the revised privacy policy and are bound by it.
 How to contact us
-If you have any questions, comments or Suggestions about this privacy policy, please contact us at wenpinxuan1@163.com:
+If you have any questions, comments or Suggestions about this privacy policy, please contact us at KaylynnWhoopi94@gmail.com:
 
 Normally, we will reply within 30 days.
