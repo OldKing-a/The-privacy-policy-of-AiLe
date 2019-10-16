@@ -43,6 +43,6 @@ Account information -- if you want to access or edit your personal information a
 V. how to update this privacy policy
 We may adjust or change this privacy policy in due course. Any update of this privacy policy will be published on our website with the updated time. Unless otherwise required by laws, regulations or regulatory regulations, the adjusted or changed content will take effect 7 days after notice or publication. If you continue to use any of our services or visit our relevant websites after the adjustment or change of the privacy policy, we believe that you have fully read, understood and accepted the revised privacy policy and are bound by it.
 How to contact us
-If you have any questions, opinions or Suggestions regarding this privacy policy, please contact us at uw239y@yeah.net:
+If you have any questions, opinions or Suggestions regarding this privacy policy, please contact us at karpdz@163.com
 
 As a rule, we will reply within 30 days.
