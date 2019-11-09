@@ -1,13 +1,13 @@
 This App knows the importance of personal information to you, and will do its best to protect your personal information safe and reliable. We are committed to maintaining your trust in us and protecting your personal information by adhering to the following principles: the principle of consistency of rights and responsibilities, the principle of clear purpose, the principle of consent by choice, the principle of least enough, the principle of ensuring security, the principle of subject participation, and the principle of openness and transparency. At the same time, we promise that we will take appropriate security measures to protect your personal information according to the mature security standards of the industry. Please read and understand this privacy policy carefully before using our products (or services).
 How do we collect and use your personal information
 Personal information refers to all kinds of information recorded by electronic or other means that can independently or in combination with other information identify the identity of a specific natural person or reflect the activities of a specific natural person. We will collect and use your personal information only for the following purposes as stated in this policy:
-(a) to provide you with the purchase of wood carving services
+(a) to provide you with health pedicure appointment service
 1. Business function 1: register as a user
 To complete the creation of an account, you need to provide the following information: your phone number, the account you created, and your password.
 The above information provided by you will continue to authorize us to use during your use of the service. When you cancel your account, we will stop using and delete the above information.
 The above information will be stored in the People's Republic of China. If cross-border transmission is required, we will separately obtain your authorization.
-We show you all kinds of wood carving products we sell
-We show all kinds of wood carving
+2, business function two: we show you our health care services
+1. We show various health care services
 (ii) carry out internal data analysis and research, statistical services of the third-party SDK, and improve our products or services
 We collect data based on your interactions with us and the choices you make, including your privacy Settings and the products and features you use. We collect data may include the SDK/API/JS code version, browser, Internet service providers (isps), IP address, platform, timestamp, identifier, version of the application, the application distribution channels, independent device identifier, iOS advertising identifier (IDFA), android advertisers identifier, nic (MAC) address, international mobile equipment identification number (IMEI), equipment type, terminal manufacturers, terminal equipment operating system version, session start/stop time, local language, time zone and network status (WiFi, etc.), hard disk, CPU, and battery usage, etc.
 We will seek your prior consent when using information for other purposes not specified in this policy.
@@ -43,6 +43,6 @@ Account information -- if you want to access or edit your personal information a
 V. how to update this privacy policy
 We may adjust or change this privacy policy in due course. Any update of this privacy policy will be published on our website with the updated time. Unless otherwise required by laws, regulations or regulatory regulations, the adjusted or changed content will take effect 7 days after notice or publication. If you continue to use any of our services or visit our relevant websites after the adjustment or change of the privacy policy, we believe that you have fully read, understood and accepted the revised privacy policy and are bound by it.
 How to contact us
-If you have any questions, opinions or Suggestions regarding this privacy policy, please contact us at karpdz@163.com
+If you have any questions, comments or Suggestions on this privacy policy, please contact us at RegLeowHuDhL@yahoo.com:
 
 As a rule, we will reply within 30 days.
